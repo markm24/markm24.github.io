@@ -1,61 +1,19 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/duck-hunt-nintendo.png
+title: Duck Hunt Replica
+permalink: projects/duck_hunt_replica
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-01-15
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+  - Eclipse
+summary: A replica of the Nintendo game Duck Hunt I took part in making in ICS 111
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+One of my software projects I have ever took part in was recreating the Nintendo classic game Duck Hunt using Java, which I made in ICS 111 as a final project for the course. However, instead of using a Zapper laser gun like the original game as input, you use the mouse cursor to aim at the ducks.
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+For the project, I worked with a group of two other people. While groups were not yet worked out at the time (excuse my former inexperience) I wound up working on the motion of the ducks as well as a portion of the game's aesthetic features and hit detection (surprisingly a very difficult part of the creation of this project at the time!). Some of the other features that weren't done by me were the scoring system, the rest of the aesthetics, and spawning system of the ducks, in which I also helped my group members with for parts of.
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+From this project, I was able to learned what it could be like working with a group on a software project, or working on one at all. And towards the end of the creation phase, we were able to assign ourselves to roles as our communication also got better. This project is a little embarrasing to reveal at this point in time, but I can assure you that I have had more practice with programming.
