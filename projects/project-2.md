@@ -1,25 +1,19 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/6172535_g.jpg
+title: Bank Database Simulator
+permalink: projects/bank_database_simulator
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-01-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Unix
+  - C
+summary: A program that simulates bank records being stored in a database I made in ICS 212
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+This project comes in the form of a program that is supposed to simulate bank records being put into a database. The program runs on a console and was made using Unix for file traversing and compilation of the code that was created entirely of C. When running this program, you would input a number that would act as an option feature that would let you add a new record to the database, delete one, or access a record to see its contents printed on the console.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The project was entirely done by me, in which I had to create all of the functions to add or delete records from a list as well as functions that saved the list between program runs, by writing that list to a file and later reading it for the next use.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+From doing this project, I was able to practice C programming on a medium scale project, which I was learning for the first time taking this course (ICS 212), as well as how to deal with relatively difficult and intricate algorithms to make sure that the program would work without any bugs or errors. In this course, I also used Unix and this project helped me practice with console commands.
