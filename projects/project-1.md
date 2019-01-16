@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/6315792_orig.jpg
 title: Marching Band
-permalink: projects/micromouse
+permalink: projects/marching_band
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-15
 labels:
