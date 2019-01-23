@@ -1,0 +1,28 @@
+---
+layout: essay
+type: essay
+title: How to Ask Smart Questions on Forums
+# All dates must be YYYY-MM-DD format!
+date: 2019-01-16
+labels:
+  - JavaScript
+  - Athletic Software Engineering
+---
+
+<img class="ui medium left floated image" src="../images/so-thats-why-they-call-it-loosey-goosey-461df.png">
+
+## How to Ask Smart Questions on Forums
+
+  As a budding programmer, undoubtly there have been times when you get stuck on a couple of lines of code and you simply cannot figure out for the life of you what is wrong. So what can you do? Ask for help! To take to the internet and ask everyone what you have to do to fix this issue. Recently I have read an instruction manual (actually just an essay) on how to ask questions effectively on forums, called "How To Ask Questions The Smart Way" by Eric Steven Raymond. From this essay I have learned what it takes to solve a problem using assistance and how to let that assistance do its magic.
+  
+  One of the simplest yet most important realizations that I have come to is that you are asking real people for help on your forums, and that they answer questions on their own volition. These people kindly take time out of their day to answer such questions and when it comes down to it, they don't want to feel like the time that they spent answering a question would be wasted. Now if they have to give up time to answer questions, why would they do it voluntarily? Well, it turns out that more knowledgable people enjoy a little intellectual challenge, and also they feel satisfaction in the idea that they are helping someone learn. They would feel like they would be wasting their time if they feel like their solution would only fix a temporary problem for someone else, meaning, if they just fix a problem but don't teach the person how to avoid this mistake in the fututre, not much would result from their solution. 
+  
+  One way that lets eager answerers know that you aren't worth answering is to see a lack of motivation. If someone is not internally motivated to fix their mistake, they are unlikely to take each problem as a learning experience. To prove your motivation, you should show that you have already tried everything you could think of. Not only does this prove that you tried, but is still stuck on this problem, it also gives the answerer an idea of what doesn't work. Raymond recommended to always do certain things before confirming that you need to ask the internet for an answer, such as reading any manual you can, searching the internet for existing answers, asking someone you know for help, but of course, the first thing you should try is to really look at your problem and try anything you think could work. The reason why asking someone you know is more likely to be helpful in certain situations is because they are more likely to be involved with the same program and either got stuck on a similar problem or already knows a solution and has a better judgement on what you should know.
+  
+  Raymond also noted that you should be conscious of where you post a potential question. It would be more likely answered if you ask a community in a that is involved with your issue. He also compels the reader to search for the answer before asking yourself. It would give you an answer quicker than waiting for a response and to an answerer, it is frustrating to see a question when the question has already been asked, anserwed, and posted on the internet.
+  
+  Now onto how to format a "smart" question.
+
+https://stackoverflow.com/questions/54032729/why-does-initializing-a-string-in-an-if-statement-seem-different-than-in-a-switc
+
+https://stackoverflow.com/questions/54336899/create-a-dictionary-from-a-text-file-which-contains-a-key-and-a-set-made-from-m
