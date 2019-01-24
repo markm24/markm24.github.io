@@ -1,4 +1,3 @@
-
 ---
 layout: essay
 type: essay
@@ -19,7 +18,7 @@ labels:
 
 ### Enough about games, onto school
     
-    Well, the games gave me a tiny idea of what coding can look like, but more importantly, I started to realize that building things didn't only have to include buildings, but also things like websites, applications, and even video games! Skip to my senior year of high school, and I signed up for a S.T.E.M. class, and I learned things like basic website building and making circuits. I wasn't really good at making circuits, but I thought making websites was actually fun. I enjoyed being able to make something that was made out of logic and to design things with mathematical precision. Towards the end of the year, my class was assigned to do group projects, making anything we wanted with what we learned. My group decided to make a game. Awesome! It was a 2D platformer that we made using a game building program. Well, almost made it, a couple weeks before the project was due, the entire project was lost on my computer. I was so frustrated, I stayed after school for a couple of hours three days a week, but at least my teacher gave my group credit for the project. It ended poorly, but before I lost everything, the project felt really fun and satisfying to do. I was especially excited for the mechanics of the game, thinking that the movement felt smooth and had relatively good stage design.
+  Well, the games gave me a tiny idea of what coding can look like, but more importantly, I started to realize that building things didn't only have to include buildings, but also things like websites, applications, and even video games! Skip to my senior year of high school, and I signed up for a S.T.E.M. class, and I learned things like basic website building and making circuits. I wasn't really good at making circuits, but I thought making websites was actually fun. I enjoyed being able to make something that was made out of logic and to design things with mathematical precision. Towards the end of the year, my class was assigned to do group projects, making anything we wanted with what we learned. My group decided to make a game. Awesome! It was a 2D platformer that we made using a game building program. Well, almost made it, a couple weeks before the project was due, the entire project was lost on my computer. I was so frustrated, I stayed after school for a couple of hours three days a week, but at least my teacher gave my group credit for the project. It ended poorly, but before I lost everything, the project felt really fun and satisfying to do. I was especially excited for the mechanics of the game, thinking that the movement felt smooth and had relatively good stage design.
     
 ### Now I am in college
 
