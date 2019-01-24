@@ -12,6 +12,8 @@ labels:
 summary: A replica of the Nintendo game Duck Hunt I took part in making in ICS 111
 ---
 
+<img class="ui medium left floated image" src="../images/duck-hunt-nintendo.png">
+
 One of my software projects I have ever took part in was recreating the Nintendo classic game Duck Hunt using Java, which I made in ICS 111 as a final project for the course. However, instead of using a Zapper laser gun like the original game as input, you use the mouse cursor to aim at the ducks.
 
 For the project, I worked with a group of two other people. While groups were not yet worked out at the time (excuse my former inexperience) I wound up working on the motion of the ducks as well as a portion of the game's aesthetic features and hit detection (surprisingly a very difficult part of the creation of this project at the time!). Some of the other features that weren't done by me were the scoring system, the rest of the aesthetics, and spawning system of the ducks, in which I also helped my group members with for parts of.
