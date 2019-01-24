@@ -12,6 +12,9 @@ labels:
 summary: A program that simulates bank records being stored in a database I made in ICS 212
 ---
 
+<img class="ui medium left floated image" src="../images/6172535_g.jpg">
+
+
 This project comes in the form of a program that is supposed to simulate bank records being put into a database. The program runs on a console and was made using Unix for file traversing and compilation of the code that was created entirely of C. When running this program, you would input a number that would act as an option feature that would let you add a new record to the database, delete one, or access a record to see its contents printed on the console.
 
 The project was entirely done by me, in which I had to create all of the functions to add or delete records from a list as well as functions that saved the list between program runs, by writing that list to a file and later reading it for the next use.
