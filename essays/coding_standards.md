@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Cleaning up my code the standard way
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-24
+date: 2019-02-07
 labels:
   - coding
   - code standards
