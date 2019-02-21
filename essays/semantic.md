@@ -11,6 +11,10 @@ labels:
   - IntelliJ
 ---
 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css">
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+
 <img class="ui medium left floated image" src="../images/clean_freak.png">
 
 ## Being introduced to Semantic UI
@@ -30,12 +34,13 @@ Now you're all set to use Semantic UI!
   The general idea of Semantic UI is that Semantic UI has HTML style classes that have predetermined definitions. When you create an object, you can set the class of that element to have it posess certain characteristics or take certain forms. There are many examples of what kinds of modifications you can do to an element, and if you're curious about all of them you can check out their website, <a href="https://semantic-ui.com/">https://semantic-ui.com/</a>, where it shows you a whole bunch of element types and collection forms you can create with it (under the "Menu" button).
   
   An example of its use can be as follows, we are using a button, in order to format it into the Semantic UI ctyle, we can say:
-  ```
+```
   <button class="ui button">
     Button
   </button>
-  ```
+```
 If we want it to be a like button, with a heart icon and a label, we can do the following: (the results of this code can be found on the official website, <a href="https://semantic-ui.com/elements/button.html#labeled">labeled button</a>)
+```
 <div class="ui labeled button">
   <div class="ui button">
     <i class="heart icon"></i> Like
@@ -44,14 +49,5 @@ If we want it to be a like button, with a heart icon and a label, we can do the 
     2,048
   </a>
 </div>
-  ```
-<div class="ui labeled button">
-  <div class="ui button">
-    <i class="heart icon"></i> Like
-  </div>
-  <a class="ui basic label">
-    2,048
-  </a>
-</div>
-  ```
+```
   As you can see, it will no longer take much effort in order to change the look of an element of your website to look more refined. Semantic's predefined element classes make the element look more impressive, and you can even combine it with other classes in order to change the look as you caw witht he like button. However, these are all presets, and you it isn't likely that these presets are always going to fit how you intend these elements to work.
