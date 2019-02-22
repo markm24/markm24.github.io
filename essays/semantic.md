@@ -1,14 +1,15 @@
 ---
 layout: essay
 type: essay
-title: Cleaning up my code the standard way
+title: a Brief Introduction to Semantic UI
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-07
 labels:
-  - coding
-  - code standards
-  - ESLint
-  - IntelliJ
+  -HTML
+  -Semantic UI
+  -CSS
+  -HTML Framework
+  -Website Design
 ---
 
 ## Being introduced to Semantic UI
