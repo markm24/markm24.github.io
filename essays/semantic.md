@@ -60,4 +60,4 @@ If we want it to be a like button, with a heart icon and a label, we can do the 
 Your button will now have a blue background! Semantic UI also has equally useful content structures that can be readily used, or ways in which you would like to organize your elements as they appear on the page, such as grids, menus, breadcrumbs, etc.
 
   Overall, Semantic UI gives you a solid starting point to making a website, and a lot of tools that are readily usable at your disposal. You can create elements that look good with very little coding and even organize them to your liking. And if the defaults don't fit your style, you can customize them yourself. Below is an image of a small recreation of the website for <a href="http://murphyshawaii.com/">Murphy's Bar and Grill</a> that I have created with many of Semantic UI's default functions as well as a few of my own adjustments to the class to make it look convincing. As you can see, Semantic UI gives you the power to easily make websites look more presentable.
-<img class="ui medium left floated image" src="../images/Murphys.png">
+<img  class="ui large centered image" src="../images/Murphys.png">
