@@ -5,11 +5,11 @@ title: a Brief Introduction to Semantic UI
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-07
 labels:
-  -HTML
-  -Semantic UI
-  -CSS
-  -HTML Framework
-  -Website Design
+  - HTML
+  - Semantic UI
+  - CSS
+  - HTML Framework
+  - Website Design
 ---
 
 ## Being introduced to Semantic UI
