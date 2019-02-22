@@ -11,8 +11,6 @@ labels:
   - IntelliJ
 ---
 
-<img class="ui medium left floated image" src="../images/clean_freak.png">
-
 ## Being introduced to Semantic UI
 
   Recnetly, I have been dipping my toes back into HTML in my software engineering class. The last time I have programmed in HTML was in high school so it has been a while since I have done much with it and I realized that I have forgot a lot about it. Ever since my college career started I have learned Java, C, and JavaScript and compared to those languages HTML is very different. HTML is a language that mostly serves to buld the user interface for websites and the syntax is very different. Either way, I seem to have gotten my old groove back and everything seemed to have come back to me. It has been super fun too. Since I knew how fun it was to make websites in which I can customize the aesthetic and organization and making these kinds of project again reminded of why I thought coding was cool in the first place. Sure, learning algorithms, functions, and how to make them efficient is cool and everything but making a website that has content is very refreshing. And since I have so much fun trying to get my websites to look good, I came across Semantic UI. It is a framework that allows you to create or modify HTML elements and content structures using prebuilt-definitions. 
@@ -46,4 +44,18 @@ If we want it to be a like button, with a heart icon and a label, we can do the 
   </a>
 </div>
 ```
-  As you can see, it will no longer take much effort in order to change the look of an element of your website to look more refined. Semantic's predefined element classes make the element look more impressive, and you can even combine it with other classes in order to change the look as you caw witht he like button. However, these are all presets, and you it isn't likely that these presets are always going to fit how you intend these elements to work.
+  As you can see, it will no longer take much effort in order to change the look of an element of your website to look more refined. Semantic's predefined element classes make the element look more impressive, and you can even combine it with other classes in order to change the look as you caw witht he like button. However, these are all presets, and you it isn't likely that these presets are always going to fit how you intend these elements to work. Say if you wanted to make the color of your button to a very specific form of blue, you can insert your own class into your class declaration of the item, such as:
+  ```
+  <button class="ui b button">
+    Button
+  </button>
+  ```
+  and in your css file you can define the b class to have that color:
+  ```
+  .b {
+    background-color: #99ffcc;
+  }
+```
+Your button will now have a blue background! Semantic UI also has equally useful content structures that can be readily used, or ways in which you would like to organize your elements as they appear on the page, such as grids, menus, breadcrumbs, etc.
+  Overall, Semantic UI gives you a solid starting point to making a website, and a lot of tools that are readily usable at your disposal. You can create elements that look good with very little coding and even organize them to your liking. And if the defaults don't fit your style, you can customize them yourself. Below is an image of a small recreation of the website for <a href="http://murphyshawaii.com/">Murphy's Bar and Grill</a> that I have created with many of Semantic UI's default functions as well as a few of my own adjustments to the class to make it look convincing. As you can see, Semantic UI gives you the power to easily make websites look more presentable.
+<img class="ui medium left floated image" src="../images/Murphys.png">
