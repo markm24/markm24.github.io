@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: How the Web Can Get You a SWAT Team Knocking Down Your Door
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-23
+date: 2019-04-18
 labels:
   - Ethics
   - Privacy
