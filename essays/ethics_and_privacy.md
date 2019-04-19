@@ -1,16 +1,14 @@
 ---
 layout: essay
 type: essay
-title: How to Ask Smart Questions on Forums
+title: How the Web Can Get You a SWAT Team Knocking Down Your Door
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-23
 labels:
-  - forums
-  - assistance
-  - getting help
+  - Ethics
+  - Privacy
+  - Stream swatting
 ---
-
-<img class="ui medium left floated image" src="../images/streamswatting.jpg">
 
 ## What am I talking about when I say "ethics"?
   
@@ -23,6 +21,9 @@ labels:
 ## How Obnoxious did it
 
   An article from the New York Times, ["The Serial Swatter"](https://www.nytimes.com/2015/11/29/magazine/the-serial-swatter.html) depicted one of this very thing. A person of the screen name Obnoxious has harassed many female Twitch streamers, by endlessly sending threatening messages to their phone, callng them, sending pizza (very unappetizing sorts) to the streamers' addresses, and worst of all, calling SWAT teams to their houses. Obnoxious was able to do all of this because he was able to get those streamer's personal information and he also put this information out online, for the rest of the public to see, a practice called doxing. These Twitch streamers really enjoyed using the website, however, them using it has put their lives in danger. Obnoxious talked to his victims, saying that he wanted to make friends, but used threats in order to keep them from ignoring him, and even revealed his method of getting their personal information in conversation with one of them. Many times, he would have gotten this information through calling online companies and tricking thye customer service to give him information, and a lot of times, he would just need an answer to a security question, like the name of your first pet, to get information like this. He would collect information by doing the same to different companies in order to get more information. For example, he said that he would call Amazon, and that he was the streamer and forgot their password but knows their birthday, and if the Amazon worker gave it to him, he could take over their account, but if they didn't, he could just call again. Eventually, Obnoxious was caught by the police after a long investigation from the efforts of a single man, B.A. Finley, who estimated that he worked roughly 1,000 hours on the case. Finding the harasser was made complicated since he made himself hard to track by using VPNs 9virtual private networks) that made his I.P. address and therefore, his location, difficult to track. But also, Finley was able to track him down eventually since Obnoxious himself had been doxed, but he found that he lived in Canada, making it extremely difficult to make an arrest. Initially, Canada wasn't interested in making the arrest, but eventually carried out the arrest after he swatted even more streamers.
+  
+  <img class="ui medium left floated image" src="../images/streamswatting.jpg">
+
   
 ## What does this have to do with ethics and how can we fix it with ethics?
 
