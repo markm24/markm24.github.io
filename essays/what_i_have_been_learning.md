@@ -8,6 +8,7 @@ labels:
   - CS
   - Design Patterns
   - CS Education
+  - Algorithms
 ---
 
   <img class="ui medium left floated image" src="../images/factory-pattern.gif"/>
