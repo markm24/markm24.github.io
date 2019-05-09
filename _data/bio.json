@@ -39,10 +39,11 @@
       ]
     },
     {
-      "name": "web/ app design",
+      "name": "algorithms",
       "keywords": [
       ]
     }
+
   ],
   "skills": [
     {
@@ -52,7 +53,9 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "React",
+        "Meteor"
       ]
     },
     {
@@ -61,7 +64,15 @@
       "keywords": [
         "Unix",
         "Eclipse",
-        "JSFiddle"
+        "JSFiddle",
+        "IntelliJ"
+      ]
+    },
+    {
+      "name": "Group Development",
+      "level": "",
+      "keywords": [
+        "Github"
       ]
     }
   ],

@@ -33,5 +33,5 @@ Dijkstra(G, w, s)
       Relax(u, v, w)
 ```
   
-  This algorithm is a commonly accepted method to solve such a problem because it is efficient (O(E lg V)), however it does not work on graphs that have edges of negative weights. In any case, this is an example of one of the many things I have leanred in collge so far. It is a method to solve a problem that has been invented by someone and accepted to be a good solution for it. This is much like engineering, although I am not as experienced in engineering, a design pattern could be something like the best way to build a roof for a house.
+  This algorithm is a commonly accepted method to solve such a problem because it is efficient (O(E lg V)), however it does not work on graphs that have edges of negative weights. In any case, this is an example of one of the many things I have learned in college so far. It is a method to solve a problem that has been invented by someone and accepted to be a good solution for it. This is much like engineering, although I am not as experienced in engineering, a design pattern could be something like the best way to build a roof for a house.
   
