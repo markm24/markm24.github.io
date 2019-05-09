@@ -13,7 +13,7 @@ labels:
 summary: My final project for my software engineering class in the Spring 2019 semester
 ---
 
-<img class="ui medium left floated image" src="../images/UHManoaslistLandingPage.png">
+<img class="ui medium left floated image" src="../images/UHManoslistLandingPage.png">
 
   This semester (Spring 2019), in my software engineering class, we had to do a final project. For this project, we had to create a website. We were assigned this project in groups of four, and my group was tasked with making a "Manoa Flea Market", where we make a service much like that of Craigslist, where you can put items up for sale online and you can buy people's listing by meeting the seller in person, except we made a similar service specifically for the use of students of UH Manoa. 
  
